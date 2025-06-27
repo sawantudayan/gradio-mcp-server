@@ -1,0 +1,5 @@
+text,output,timestamp
+I love chocolate,"{""polarity"": 0.5, ""subjectivity"": 0.6, ""assessment"": ""positive""}",2025-06-27 11:03:15.369627
+I love chocolate,"{""polarity"": 0.5, ""subjectivity"": 0.6, ""assessment"": ""positive""}",2025-06-27 11:03:26.591725
+I love chocolate,"{""polarity"": 0.5, ""subjectivity"": 0.6, ""assessment"": ""positive""}",2025-06-27 11:03:30.777720
+hate,"{""polarity"": -0.8, ""subjectivity"": 0.9, ""assessment"": ""negative""}",2025-06-27 11:09:09.501160
